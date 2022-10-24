@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "by2CxoO4u6fM6QFfJt0mmCFuC+/P0HF0flUgfFXStTiPqJZC7cnvi3e1rG2khborv8B7xw9T2ow4xFI7lPW5BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeferson.mazo\\Desktop\\Curso.NET\\tienda\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeferson.mazo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\jeferson.mazo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jeferson.mazo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
